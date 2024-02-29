@@ -1,8 +1,8 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-} */
+}
 
 .main-wrapper{
     height: 100vh;
@@ -12,6 +12,7 @@
 .grid-container{
     height: 800px;
     width: 800px;
+    background-color: gray;
     
     
 }
