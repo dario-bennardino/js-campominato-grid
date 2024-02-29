@@ -28,13 +28,12 @@ function getSquare(numero){
     sq.addEventListener('click', function(){
         //this mi restituisce l'elemento contenitore 
         console.log(this._sqID);
+        this.innerHTML = this._sqID;
     })
 
     
     return sq;
 }
-
-
 
 
 //funzione per resettare il gioco
