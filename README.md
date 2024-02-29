@@ -21,4 +21,13 @@ PS: la grafica può essere libera a patto che vengano mantenute le funzionalità
 
 ## Svolgimento
 1. preparo tramite hhml il container e faccio una prova creando i quadrati customizzando con css.
-2. 
+2. selezione il container e lo salvo in una costante
+3. resetto
+4. faccio un ciclo di 100 ripetizioni
+5. ad ogni ciclo creo un quadrato e lo aggiungo alla griglia
+
+### Creazine del quadrato
+1. creare l'elemento html
+2. associare la classe square
+3. associare il valore (numero)
+4. associare un listner che al click mostri il valore e faccia il toggle della classe clicked
