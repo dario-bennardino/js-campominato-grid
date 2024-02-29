@@ -20,4 +20,5 @@ Le validazioni e i controlli possiamo farli anche in un secondo momento.<br>
 PS: la grafica può essere libera a patto che vengano mantenute le funzionalità
 
 ## Svolgimento
-1. 
+1. preparo tramite hhml il container e faccio una prova creando i quadrati customizzando con css.
+2. 
